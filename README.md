@@ -14,9 +14,7 @@ Feel free to contact me !
 ## Usage
   1. git clone git@github.com:Myrrof/ModuloTech.git
   2. cd ModuloTech/
-  3. pod install
-  4. open project
-  5. Build the app on XCode
+  3. open the app on XCode
 
 ## Contact
   * laurent2.cheng@epitech.eu
