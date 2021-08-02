@@ -1,0 +1,11 @@
+"all" = "All";
+"lights" = "Lights";
+"rollerShutters" = "Roller shutters";
+"heaters" = "Heaters";
+"on" = "On";
+"off" = "Off";
+"delete" = "Delete";
+"deleteDeviceHint" = "Are you sure to remove this device ?";
+"deleteDeviceSuccess" = "Device deleted successfully";
+"yes" = "Yes";
+"cancel" = "Cancel";

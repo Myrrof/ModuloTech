@@ -1,0 +1,11 @@
+"all" = "Tous";
+"lights" = "Lumières";
+"rollerShutters" = "Volets roulants";
+"heaters" = "Radiateurs";
+"on" = "Allumé";
+"off" = "Éteint";
+"delete" = "Supprimer";
+"deleteDeviceHint" = "Êtes-vous sûr de vouloir supprimer cet appareil ?";
+"deleteDeviceSuccess" = "Appareil supprimé avec succès";
+"yes" = "Oui";
+"cancel" = "Annuler";
