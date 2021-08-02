@@ -2,7 +2,7 @@
 
 ## About ModuloTech
 
-ModuloTech, is an iOS app for connected home devices. 
+ModuloTech, is an iOS app for home connected devices. 
 Users can go through a list of several devices such as Lights, Roller shuters and Heaters.
 Feel free to contact me !
 ## Features
